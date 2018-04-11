@@ -1,5 +1,7 @@
 
-# bsdiff
+# bsdiff 
+
+生成差分包工具
 
 Step 1.
 Add it in your root build.gradle at the end of repositories:
