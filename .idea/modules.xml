@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\bsdifftool\app\app.iml" filepath="E:\bsdifftool\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bsdifflibrary/bsdifflibrary.iml" filepath="$PROJECT_DIR$/bsdifflibrary/bsdifflibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/bsdifftool.iml" filepath="$PROJECT_DIR$/bsdifftool.iml" />
     </modules>
