@@ -1,3 +1,4 @@
+
 # bsdiff
 
 Step 1.
@@ -19,6 +20,9 @@ Step 2. Add the dependency
   
 方法调用：
 BsDiff.bsdiff(oldPath, newPath, diffPath);
+
 oldPath:旧的apk文件放置的路径
+
 newPath：新的apk文件放置的路径
+
 diffPath:要生成的patch文件放置的路径
